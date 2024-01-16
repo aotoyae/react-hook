@@ -1,0 +1,25 @@
+{
+  "name": "@aotooks/use-title",
+  "version": "1.0.0",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aotoyae/react-hook.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "aotoyae <aotoyae@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aotoyae/react-hook/issues"
+  },
+  "homepage": "https://github.com/aotoyae/react-hook#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
